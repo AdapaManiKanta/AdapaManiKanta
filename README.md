@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ManiKanta Adapa
 
-🎓 Computer Science & Engineering (3rd Year)  
+🎓 Computer Science & Engineering (4th Year)  
 🤖 AI/ML | Deep Learning | NLP | Data Science  
 💻 Python | TensorFlow | PyTorch | Full Stack  
 
